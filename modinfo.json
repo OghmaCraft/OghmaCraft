@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "name": "OghmaCraft",
+  "description": "Magic",
+  "author": "wokylord, Lett0",
+  "version": "1.0.0",
+  "dependency": {
+    "game": "1.9"
+  },
+  "website": ""
+}
