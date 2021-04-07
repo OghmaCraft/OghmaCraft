@@ -44,6 +44,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="assets\oghmacraft\shapes\item\tool\knife-stone.json" />
+    <None Include="assets\oghmacraft\shapes\item\tool\knife-stoneblade.json" />
     <None Include="modinfo.json" />
   </ItemGroup>
   <ItemGroup>
