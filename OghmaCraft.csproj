@@ -44,16 +44,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="assets\oghmacraft\blocktypes\bone\0info.json" />
+    <None Include="assets\oghmacraft\blocktypes\chiseled\0info.json" />
+    <None Include="assets\oghmacraft\blocktypes\clay\0info.json" />
+    <None Include="assets\oghmacraft\blocktypes\clay\mold\0info.json" />
+    <None Include="assets\oghmacraft\blocktypes\cloth\0info.json" />
+    <None Include="assets\oghmacraft\blocktypes\food\0info.json" />
     <None Include="assets\oghmacraft\shapes\item\tool\knife-stone.json" />
     <None Include="assets\oghmacraft\shapes\item\tool\knife-stoneblade.json" />
     <None Include="modinfo.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="assets\oghmacraft\blocktypes\bone\" />
-    <Folder Include="assets\oghmacraft\blocktypes\chiseled\" />
-    <Folder Include="assets\oghmacraft\blocktypes\clay\mold\" />
-    <Folder Include="assets\oghmacraft\blocktypes\cloth\" />
-    <Folder Include="assets\oghmacraft\blocktypes\food\" />
     <Folder Include="assets\oghmacraft\blocktypes\glass\" />
     <Folder Include="assets\oghmacraft\blocktypes\liquid\" />
     <Folder Include="assets\oghmacraft\blocktypes\locustnest\" />
