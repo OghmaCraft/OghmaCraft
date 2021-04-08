@@ -1,27 +1,27 @@
 {
-	code: "og_knife",
+	code: "ogknife",
 	//"__comment": "ItemKnife contains code for harvesting animal carcasses",
 	//class: "ItemKnife",
 	damagedby: ["blockbreaking", "attacking"],
-	tool: "og_knife",
+	tool: "ogknife",
 	
 	shapeByType: {
-		"og_knife-bone": { base: "oghmacraft:item/tool/og_knife-bone" },
+		"ogknife-bone": { base: "oghmacraft:item/tool/og_knife-bone" },
 		"*": { "base": "oghmacraft:item/tool/og_knife-bone" }
 	},
 	heldTpHitAnimation: "breaktool",
 	heldTpUseAnimation: "knap",
 	durabilitybytype: {
-		"og_knife-bone": 300
+		"ogknife-bone": 300
 	},
 	miningspeedbytype: {
-		"og_knife-bone": {
+		"ogknife-bone": {
 			"plant": 1,
 		},
 		
 	},
 	attackpowerbytype: {
-		"og_knife-bone": 1
+		"ogknife-bone": 1
 		
 	},
 	creativeinventory: { "general": ["*"], "items": ["*"], "tools": ["*"], "oghmacraft"["*"] },
