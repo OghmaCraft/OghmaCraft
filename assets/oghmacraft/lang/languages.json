@@ -1,0 +1,72 @@
+[
+	{
+		code: "en",
+		englishname: "English",
+		name: "English"
+	},
+	{
+		code: "ar",
+		englishname: "Arabic (91% complete)",
+		name: "عربى"
+	},
+	{
+		code: "nl",
+		englishname: "Dutch (76% complete)",
+		name: "Nederlands"
+	},
+	{
+		code: "es-es",
+		englishname: "Spanish (62% complete)",
+		name: "Español"
+	},
+	{
+		code: "fr",
+		englishname: "French (99% complete)",
+		name: "Français"
+	},
+	{
+		code: "de",
+		englishname: "German (86% complete)",
+		name: "Deutsch"
+	},
+	{ 
+		code: "it",
+		englishname: "Italian (75% complete)",
+		name: "Italiano"
+	},
+	{
+		code: "ru",
+		englishname: "Russian (100% complete)",
+		name: "Русский"
+	},
+	{
+		code: "uk",
+		englishname: "Ukrainian (55% complete)",
+		name: "Українська"
+	},
+	{
+		code: "pl",
+		englishname: "Polish (100% complete)",
+		name: "Polski"
+	},
+	{
+		code: "pt-br",
+		englishname: "Portuguese (Brazil) (100% complete)",
+		name: "Português"
+	},
+	{
+		code: "sv-se",
+		englishname: "Swedish (98% complete)",
+		name: "Svenska"
+	},
+	{
+		code: "ro",
+		englishname: "Romanian (25% complete)",
+		name: "Româna"
+	},
+	{
+		code: "zh-cn",
+		englishname: "Chinese (50% complete)",
+		name: "Chinese"
+	}
+]
