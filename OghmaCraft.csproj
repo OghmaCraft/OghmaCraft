@@ -50,8 +50,9 @@
     <None Include="assets\oghmacraft\blocktypes\clay\mold\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\cloth\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\food\0info.json" />
-    <None Include="assets\oghmacraft\shapes\item\tool\knife-stone.json" />
-    <None Include="assets\oghmacraft\shapes\item\tool\knife-stoneblade.json" />
+    <None Include="assets\oghmacraft\itemtypes\tool\knife.json" />
+    <None Include="assets\oghmacraft\shapes\item\tool\knife-bone.json" />
+    <None Include="assets\oghmacraft\shapes\item\tool\knife-boneblade.json" />
     <None Include="modinfo.json" />
   </ItemGroup>
   <ItemGroup>
@@ -87,7 +88,6 @@
     <Folder Include="assets\oghmacraft\itemtypes\part\" />
     <Folder Include="assets\oghmacraft\itemtypes\resource\quartz\" />
     <Folder Include="assets\oghmacraft\itemtypes\toolhead\" />
-    <Folder Include="assets\oghmacraft\itemtypes\tool\" />
     <Folder Include="assets\oghmacraft\itemtypes\wearable\" />
     <Folder Include="assets\oghmacraft\music\deepunderground\" />
     <Folder Include="assets\oghmacraft\music\resonancearchives\" />
