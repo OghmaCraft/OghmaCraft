@@ -51,11 +51,11 @@
     <None Include="assets\oghmacraft\blocktypes\clay\mold\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\cloth\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\food\0info.json" />
-    <None Include="assets\oghmacraft\itemtypes\tool\knife.json" />
+    <None Include="assets\oghmacraft\itemtypes\tool\og_knife.json" />
     <None Include="assets\oghmacraft\lang\en.json" />
     <None Include="assets\oghmacraft\lang\ru.json" />
-    <None Include="assets\oghmacraft\shapes\item\tool\knife-bone.json" />
-    <None Include="assets\oghmacraft\shapes\item\tool\knife-boneblade.json" />
+    <None Include="assets\oghmacraft\shapes\item\tool\og_knife-bone.json" />
+    <None Include="assets\oghmacraft\shapes\item\tool\og_knife-boneblade.json" />
     <None Include="modinfo.json" />
   </ItemGroup>
   <ItemGroup>
