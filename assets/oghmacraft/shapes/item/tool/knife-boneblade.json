@@ -1,4 +1,4 @@
-{
+{  // моделька лезия костяного ножа
 	"editor": {
 		"allAngles": false,
 		"entityTextureMode": false
@@ -8,8 +8,8 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"string": "item/tool/material/string",
-		"bone": "block/bone"
+		"string": "game:item/tool/material/string",
+		"bone": "game:block/bone"           // замена текстуры
 	},
 	"elements": [
 		{

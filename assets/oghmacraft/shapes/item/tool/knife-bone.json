@@ -1,4 +1,4 @@
-{
+{ // моделька костяного ножа
 	"editor": {
 		"allAngles": false,
 		"singleTexture": false
@@ -6,9 +6,9 @@
 	"textureWidth": 16,
 	"textureHeight": 16,
 	"textures": {
-		"string": "item/tool/material/string",
-		"handle": "item/tool/material/handle",
-		"material": "block/stone/rock/obsidian1"
+		"string": "game:item/tool/material/string", // замена текстур 
+		"handle": "game:item/tool/material/handle",
+		"material": "game:block/bone"
 	},
 	"elements": [
 		{
