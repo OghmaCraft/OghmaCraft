@@ -44,6 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="0info.json" />
     <None Include="assets\oghmacraft\blocktypes\bone\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\chiseled\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\clay\0info.json" />
