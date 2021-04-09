@@ -44,7 +44,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="0info.json" />
     <None Include="assets\oghmacraft\blocktypes\bone\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\chiseled\0info.json" />
     <None Include="assets\oghmacraft\blocktypes\clay\0info.json" />
@@ -94,7 +93,6 @@
     <Folder Include="assets\oghmacraft\itemtypes\wearable\" />
     <Folder Include="assets\oghmacraft\music\deepunderground\" />
     <Folder Include="assets\oghmacraft\music\resonancearchives\" />
-    <Folder Include="assets\oghmacraft\patches\" />
     <Folder Include="assets\oghmacraft\recipes\alloy\" />
     <Folder Include="assets\oghmacraft\recipes\barrel\cheesemaking\" />
     <Folder Include="assets\oghmacraft\recipes\clayforming\" />
